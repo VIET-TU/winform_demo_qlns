@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLNS3ModelStoreContainer" CdmEntityContainer="QLNS3Entities">
+    <EntitySetMapping Name="CHUC_VU">
+      <EntityTypeMapping TypeName="QLNS3Model.CHUC_VU">
+        <MappingFragment StoreEntitySet="CHUC_VU">
+          <ScalarProperty Name="ma_chuc_vu" ColumnName="ma_chuc_vu" />
+          <ScalarProperty Name="ten_chuc_vu" ColumnName="ten_chuc_vu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHUYEN_MON">
+      <EntityTypeMapping TypeName="QLNS3Model.CHUYEN_MON">
+        <MappingFragment StoreEntitySet="CHUYEN_MON">
+          <ScalarProperty Name="ma_chuyen_mon" ColumnName="ma_chuyen_mon" />
+          <ScalarProperty Name="ten_chuyen_mon" ColumnName="ten_chuyen_mon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DAN_TOC">
+      <EntityTypeMapping TypeName="QLNS3Model.DAN_TOC">
+        <MappingFragment StoreEntitySet="DAN_TOC">
+          <ScalarProperty Name="ma_dan_toc" ColumnName="ma_dan_toc" />
+          <ScalarProperty Name="ten_dan_toc" ColumnName="ten_dan_toc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GIOI_TINH">
+      <EntityTypeMapping TypeName="QLNS3Model.GIOI_TINH">
+        <MappingFragment StoreEntitySet="GIOI_TINH">
+          <ScalarProperty Name="ma_gioi_tinh" ColumnName="ma_gioi_tinh" />
+          <ScalarProperty Name="ten_gioi_tinh" ColumnName="ten_gioi_tinh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HINH_THUC">
+      <EntityTypeMapping TypeName="QLNS3Model.HINH_THUC">
+        <MappingFragment StoreEntitySet="HINH_THUC">
+          <ScalarProperty Name="ma_hinh_thuc" ColumnName="ma_hinh_thuc" />
+          <ScalarProperty Name="ten_hinh_thuc" ColumnName="ten_hinh_thuc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HOC_VAN">
+      <EntityTypeMapping TypeName="QLNS3Model.HOC_VAN">
+        <MappingFragment StoreEntitySet="HOC_VAN">
+          <ScalarProperty Name="ma_hoc_van" ColumnName="ma_hoc_van" />
+          <ScalarProperty Name="ten_hoc_van" ColumnName="ten_hoc_van" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HSNVs">
+      <EntityTypeMapping TypeName="QLNS3Model.HSNV">
+        <MappingFragment StoreEntitySet="HSNV">
+          <ScalarProperty Name="ma_nv" ColumnName="ma_nv" />
+          <ScalarProperty Name="ho_ten" ColumnName="ho_ten" />
+          <ScalarProperty Name="ma_gioi_tinh" ColumnName="ma_gioi_tinh" />
+          <ScalarProperty Name="ma_chuc_vu" ColumnName="ma_chuc_vu" />
+          <ScalarProperty Name="ma_dan_toc" ColumnName="ma_dan_toc" />
+          <ScalarProperty Name="ma_ton_giao" ColumnName="ma_ton_giao" />
+          <ScalarProperty Name="ngay_sinh" ColumnName="ngay_sinh" />
+          <ScalarProperty Name="que_quan" ColumnName="que_quan" />
+          <ScalarProperty Name="ma_noi_sinh" ColumnName="ma_noi_sinh" />
+          <ScalarProperty Name="dia_chi" ColumnName="dia_chi" />
+          <ScalarProperty Name="dien_thoai" ColumnName="dien_thoai" />
+          <ScalarProperty Name="so_cccd" ColumnName="so_cccd" />
+          <ScalarProperty Name="ma_phong_ban" ColumnName="ma_phong_ban" />
+          <ScalarProperty Name="ma_hoc_van" ColumnName="ma_hoc_van" />
+          <ScalarProperty Name="ma_chuyen_mon" ColumnName="ma_chuyen_mon" />
+          <ScalarProperty Name="vo_chong" ColumnName="vo_chong" />
+          <ScalarProperty Name="con" ColumnName="con" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NGANH_DT">
+      <EntityTypeMapping TypeName="QLNS3Model.NGANH_DT">
+        <MappingFragment StoreEntitySet="NGANH_DT">
+          <ScalarProperty Name="ma_nganh_dt" ColumnName="ma_nganh_dt" />
+          <ScalarProperty Name="ten_nganh_dt" ColumnName="ten_nganh_dt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NGOAI_NGU">
+      <EntityTypeMapping TypeName="QLNS3Model.NGOAI_NGU">
+        <MappingFragment StoreEntitySet="NGOAI_NGU">
+          <ScalarProperty Name="ma_ngoai_ngu" ColumnName="ma_ngoai_ngu" />
+          <ScalarProperty Name="ten_ngoai_ngu" ColumnName="ten_ngoai_ngu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NOI_SINH">
+      <EntityTypeMapping TypeName="QLNS3Model.NOI_SINH">
+        <MappingFragment StoreEntitySet="NOI_SINH">
+          <ScalarProperty Name="ma_noi_sinh" ColumnName="ma_noi_sinh" />
+          <ScalarProperty Name="ten_noi_sinh" ColumnName="ten_noi_sinh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NV_NGOAI_NGU">
+      <EntityTypeMapping TypeName="QLNS3Model.NV_NGOAI_NGU">
+        <MappingFragment StoreEntitySet="NV_NGOAI_NGU">
+          <ScalarProperty Name="ma_ngoai_ngu" ColumnName="ma_ngoai_ngu" />
+          <ScalarProperty Name="ma_nv" ColumnName="ma_nv" />
+          <ScalarProperty Name="ma_xep_loai" ColumnName="ma_xep_loai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PHONG_BAN">
+      <EntityTypeMapping TypeName="QLNS3Model.PHONG_BAN">
+        <MappingFragment StoreEntitySet="PHONG_BAN">
+          <ScalarProperty Name="ma_phong_ban" ColumnName="ma_phong_ban" />
+          <ScalarProperty Name="ten_phong_ban" ColumnName="ten_phong_ban" />
+          <ScalarProperty Name="dien_thoai" ColumnName="dien_thoai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QTCTs">
+      <EntityTypeMapping TypeName="QLNS3Model.QTCT">
+        <MappingFragment StoreEntitySet="QTCT">
+          <ScalarProperty Name="ma_qtct" ColumnName="ma_qtct" />
+          <ScalarProperty Name="ma_nv" ColumnName="ma_nv" />
+          <ScalarProperty Name="tu_ngay" ColumnName="tu_ngay" />
+          <ScalarProperty Name="den_ngay" ColumnName="den_ngay" />
+          <ScalarProperty Name="ma_phong_ban" ColumnName="ma_phong_ban" />
+          <ScalarProperty Name="ma_chuc_vu" ColumnName="ma_chuc_vu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QTDTs">
+      <EntityTypeMapping TypeName="QLNS3Model.QTDT">
+        <MappingFragment StoreEntitySet="QTDT">
+          <ScalarProperty Name="ma_qua_trinh_dt" ColumnName="ma_qua_trinh_dt" />
+          <ScalarProperty Name="ma_nv" ColumnName="ma_nv" />
+          <ScalarProperty Name="tu_ngay" ColumnName="tu_ngay" />
+          <ScalarProperty Name="den_ngay" ColumnName="den_ngay" />
+          <ScalarProperty Name="ma_truong_dt" ColumnName="ma_truong_dt" />
+          <ScalarProperty Name="ma_hinh_thuc" ColumnName="ma_hinh_thuc" />
+          <ScalarProperty Name="ma_nganh_dt" ColumnName="ma_nganh_dt" />
+          <ScalarProperty Name="ma_xep_loai" ColumnName="ma_xep_loai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TON_GIAO">
+      <EntityTypeMapping TypeName="QLNS3Model.TON_GIAO">
+        <MappingFragment StoreEntitySet="TON_GIAO">
+          <ScalarProperty Name="ma_ton_giao" ColumnName="ma_ton_giao" />
+          <ScalarProperty Name="ten_ton_giao" ColumnName="ten_ton_giao" />
+          <ScalarProperty Name="ghi_chu" ColumnName="ghi_chu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TRUONG_DT">
+      <EntityTypeMapping TypeName="QLNS3Model.TRUONG_DT">
+        <MappingFragment StoreEntitySet="TRUONG_DT">
+          <ScalarProperty Name="ma_truong_dt" ColumnName="ma_truong_dt" />
+          <ScalarProperty Name="ten_truong_dt" ColumnName="ten_truong_dt" />
+          <ScalarProperty Name="dia_chi" ColumnName="dia_chi" />
+          <ScalarProperty Name="dien_thoai" ColumnName="dien_thoai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="XEP_LOAI">
+      <EntityTypeMapping TypeName="QLNS3Model.XEP_LOAI">
+        <MappingFragment StoreEntitySet="XEP_LOAI">
+          <ScalarProperty Name="ma_xep_loai" ColumnName="ma_xep_loai" />
+          <ScalarProperty Name="ten_xep_loai" ColumnName="ten_xep_loai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

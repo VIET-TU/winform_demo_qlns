@@ -1,0 +1,34 @@
+D:\C#\Login_C#\Login_C#\bin\Debug\Login_C#.exe.config
+D:\C#\Login_C#\Login_C#\bin\Debug\Login_C#.exe
+D:\C#\Login_C#\Login_C#\bin\Debug\Login_C#.pdb
+D:\C#\Login_C#\Login_C#\obj\Debug\Login_C#.csproj.AssemblyReference.cache
+D:\C#\Login_C#\Login_C#\obj\Debug\Login_C_.Properties.Resources.resources
+D:\C#\Login_C#\Login_C#\obj\Debug\Login_C#.csproj.GenerateResource.cache
+D:\C#\Login_C#\Login_C#\obj\Debug\Login_C#.csproj.CoreCompileInputs.cache
+D:\C#\Login_C#\Login_C#\obj\Debug\Login_C#.exe
+D:\C#\Login_C#\Login_C#\obj\Debug\Login_C#.pdb
+D:\C#\Login_C#\Login_C#\obj\Debug\Login_C_.dang_ki.resources
+D:\C#\Login_C#\Login_C#\obj\Debug\Login_C_.dang_nhap.resources
+D:\C#\Login_C#\Login_C#\obj\Debug\Login_C_.quen_mat_khau.resources
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\bin\Debug\Login_C#.exe.config
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\bin\Debug\Login_C#.exe
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\bin\Debug\Login_C#.pdb
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C#.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C_.dang_ki.resources
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C_.dang_nhap.resources
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C_.Properties.Resources.resources
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C_.quen_mat_khau.resources
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C#.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C#.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C#.exe
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C#.pdb
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C#.csproj.CopyComplete
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C_.MainForm.resources
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C_.Employee.resources
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C_.Dashboard.resources
+C:\Users\Dell\Documents\Zalo Received Files\Login_C#\Login_C#\obj\Debug\Login_C_.AddEmployeeForm.resources
